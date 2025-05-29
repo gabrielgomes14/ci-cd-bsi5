@@ -1,8 +1,12 @@
-# Guia de Desenvolvimento e Deploy
+# Gabriel Gomes Galikosky
+
+#BSI5
+
+# Guia de Desenvolvimento e Deploy da prova de devops que realizei:
 
 Este projeto segue uma pipeline de CI/CD com testes automatizados, build e deploy usando Docker, Kubernetes e GitHub Actions.
 
-## Passos para desenvolvimento e deploy
+## Passos para desenvolvimento e deploy que realizei
 
 1. **Criar repositório GitHub**
 
