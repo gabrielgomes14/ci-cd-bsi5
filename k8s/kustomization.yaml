@@ -5,5 +5,5 @@ resources:
 - service.yaml
 images:
 - name: app
-  newName: gomes025/ci-cd-bsi5
+  newName: gomes025/devops-bsi5
   newTag: b88dd798529c232ba26c1ef14feaacb614083cbf
