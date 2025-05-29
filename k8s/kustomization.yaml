@@ -6,4 +6,4 @@ resources:
 images:
 - name: app
   newName: gomes025/cicd
-  newTag: 76d31cd4bec89ed09ccd9827105eb8cc9fea5064
+  newTag: c3e2730180c8227db5f2d7f2dfcc0f20987cccb8
